@@ -10,3 +10,7 @@ Counter Animation using Pure Vanilla Javascript (NO Jquery or any external plugi
 3. No External Plugins.
 
 4. Only pure Vanilla Javascript.
+
+# Final-output 
+
+![](Counter-view.png)
